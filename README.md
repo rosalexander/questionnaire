@@ -1,7 +1,7 @@
 # questionnaire
 Very simple Question/Answer messaging system using PubNub.
 
-Admin commands
+# Admin commands
 
 "create question" - Creates and saves a question
 
@@ -17,5 +17,8 @@ Admin commands
 
 "results" - Check the polling results of the current question session
 
+# How To Use
+
+Run one admin process and with "python admin.py" and run multiple client processes with "python client.py"
 
 
