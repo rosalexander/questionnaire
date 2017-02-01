@@ -21,4 +21,7 @@ Very simple Question/Answer messaging system using PubNub.
 
 Run one admin process and with "python admin.py" and run multiple client processes with "python client.py"
 
+# In the Future
+Create a GUI, save all message history, visualize results with a bar graph, and rewrite in Javascript/HTML5
+
 
